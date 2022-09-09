@@ -10,7 +10,7 @@
 
 ---
 
-- 💬 Ask me about anything related to html and css 
+- 💬 Ask me about anything related to html and css and lua
 - 📫 How to reach me: [@Discord](https://discord.com/channels/@me/476532702019977217)
 - <span style="color: green"> 🌍 Discord Server [LS Store](https://discord.gg/kuEKRaz3vU)
 - <span style="color: green"> 👀 my portfolio site [1.1gold.repl.co](https://1.1gold.repl.co)
